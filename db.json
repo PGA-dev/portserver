@@ -1,18 +1,21 @@
 {
     "references":[
         {
+            "id": 0,
             "name": "PGA",
             "link": "https://github.com/PGA-dev",
             "linkText": "PGA GitHub",
             "message": "References to my recent projects from NuCamp"
         },
         {
+            "id": 1,
             "name": "PGA2",
             "link": "https://github.com/PGA-dev",
             "linkText": "PGA GitHub2",
             "message": "References to my recent projects from NuCamp2"
         },
         {
+            "id": 2,
             "name": "PGA3",
             "link": "https://github.com/PGA-dev",
             "linkText": "PGA GitHub3",
