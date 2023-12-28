@@ -9,17 +9,17 @@
         },
         {
             "id": 1,
-            "name": "PGA2",
-            "link": "https://github.com/PGA-dev",
-            "linkText": "PGA GitHub2",
-            "message": "References to my recent projects from NuCamp2"
+            "name": "Abstract Blue And White",
+            "link": "https://github.com/PGA-dev/personalport/blob/main/src/app/peter-olexa-01mFm_giy38-unsplash.jpg",
+            "linkText": "Blue and White Abstract",
+            "message": "Taken by Peter Olexa, courtesy of Unsplash.com"
         },
         {
             "id": 2,
-            "name": "PGA3",
-            "link": "https://github.com/PGA-dev",
-            "linkText": "PGA GitHub3",
-            "message": "References to my recent projects from NuCamp3"
+            "name": "White Clouds",
+            "link": "https://github.com/PGA-dev/personalport/blob/main/src/app/k-k-RnPuMyvPtss-unsplash.jpg",
+            "linkText": "White Clouds during Daytime",
+            "message": "Picture by K K, courtesy of Unsplash.com"
         }
     ]
 }
