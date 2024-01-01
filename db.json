@@ -27,7 +27,8 @@
     [
         {
             "id": 0,
-            "name": "History",
+            "name1": "PGA",
+            "name2": "PGA",
             "first": "first paragraph",
             "second": "second paragraph",
             "third": "third paragraph",
