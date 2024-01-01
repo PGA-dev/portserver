@@ -21,5 +21,17 @@
             "linkText": "White Clouds during Daytime",
             "message": "Picture by K K, courtesy of Unsplash.com"
         }
+    ],
+
+    "history":
+    [
+        {
+            "id": 0,
+            "name": "History",
+            "first": "first paragraph",
+            "second": "second paragraph",
+            "third": "third paragraph",
+            "close": "final paragraph"
+        }
     ]
 }
