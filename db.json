@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "PGA Profile Picture",
-            "link": "https://github.com/PGA-dev/personalport/blob/main/src/app/profile.png",
+            "link": "https://github.com/PGA-dev/personalport/blob/main/src/app/resources/profile.png",
             "linkText": "PGA Profile Picture",
             "message": "Taken 2012 by J. Bedient"
         },
