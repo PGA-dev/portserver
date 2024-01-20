@@ -27,6 +27,27 @@
             "link": "https://github.com/PGA-dev/personalport/blob/main/src/app/resources/marek-piwnicki-w4sxddUJ5-0-unsplash.jpg",
             "linkText": "Abstract smokey blue",
             "message": "Picture by Marek Piwnicki, courtesy of Unsplash.com"
+        },
+        {
+            "id": 4,
+            "name": "Cyntler React-Doc-Viewer",
+            "link": "https://www.npmjs.com/package/@cyntler/react-doc-viewer",
+            "linkText": "React doc viewer",
+            "message": "Used Cyntler's viewer to render simple docx files for resume page..."
+        }, 
+        {
+            "id": 5,
+            "name": "How to create a responsive HTML table",
+            "link": "https://www.youtube.com/watch?v=czZ1PvNW5hk",
+            "linkText": "Kevin Powell's Responsive Table YouTube Video",
+            "message": "Kevin's video was especially helpful in practically adressing the responsive mobile design...modified of course." 
+        },
+        {
+            "id": 6,
+            "name": "A Responsive Accessible Table",
+            "link": "https://adrianroselli.com/2017/11/a-responsive-accessible-table.html",
+            "linkText": "Adrian Roselli's responsive design",
+            "message": "Used some of Adrian Roselli's ideas for how to scale table rows and spacing."
         }
     ],
 
